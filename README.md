@@ -29,7 +29,7 @@ This repository contains files and resources related to HR analytics, including:
 - Follow the steps outlined in the 'Getting Started' section above to perform data analysis and view the results.
 
 ## Contributors
-- 403ENDer
+- sathyanand-dev
 
 Feel free to explore, learn, and adapt these resources to your HR analytics needs. If you have any questions or need further assistance, please don't hesitate to reach out.
 
